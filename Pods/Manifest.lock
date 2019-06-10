@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.8.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - lottie-ios (2.5.2)
+  - ObjectMapper (3.4.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - lottie-ios
+  - ObjectMapper (~> 3.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+
+PODFILE CHECKSUM: a0de96d3dcd4a126e02d8c1baf4bb5b236b6cf83
+
+COCOAPODS: 1.4.0
